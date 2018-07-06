@@ -1,0 +1,38 @@
+* {
+  -moz-box-sizing: border-box; /* Firexfox */
+  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+  box-sizing: border-box; /* IE */
+  font-family: 'Roboto Mono', monospace;
+  margin: 0 auto;
+}
+
+html{
+  font-size: 10px;
+  background: #eee;
+}
+
+header{
+  background: #fff;
+  border-bottom: .1px solid #000;
+  height: 60px;
+  padding: 10px;
+}
+
+header h1 {
+  font-size: 11px;
+  margin-top: 12px;
+  margin-left: 10px;
+}
+
+img{
+  width: 60%;
+  margin: 50px auto;
+  display: block;
+  border-radius: 5px;
+}
+
+input{
+  border: 1px solid #000;
+  background: #eee;
+  margin: 5px 0 0 17px;
+}
