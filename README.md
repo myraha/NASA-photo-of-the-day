@@ -1,7 +1,9 @@
 # NASA Photo of the Day: Simple API
 This project was made with the use of NASA's Photo of the Day API. Select a date and see the photo NASA posted for that day.
 
-**Link to project:** 
+**Link to project:** https://myraha.github.io/NASA-photo-of-the-day/
+
+![alt tag](nasa-photooftheday.png)
 
 ## How It's Made:
 
